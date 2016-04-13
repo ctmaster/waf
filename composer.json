@@ -1,0 +1,11 @@
+{
+    "name": "ctmaster/waf",
+    "description": "Waf Framework",
+    "authors": [
+        {
+            "name": "Dawei Zhang",
+            "email": "ctmaster@126.com"
+        }
+    ],
+    "require": {}
+}
