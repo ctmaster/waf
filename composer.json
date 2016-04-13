@@ -7,6 +7,7 @@
             "email": "ctmaster@126.com"
         }
     ],
-    "require": {},
+    "require": {
+    },
     "minimum-stability": "dev"
 }
