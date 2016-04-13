@@ -2,3 +2,5 @@
 .waf-*
 .waf3-*
 .lock-*
+
+/vendor/
