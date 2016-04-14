@@ -16,7 +16,6 @@ class RequestIdProcessor
                 self::$requestId = self::generateRequestId();
             }
         }
-        echo self::$requestId,"\n";
         return self::$requestId;
     }
 
