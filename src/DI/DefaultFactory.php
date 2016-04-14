@@ -25,6 +25,11 @@ class DefaultFactory
         $container->set('log', function() {
             return LoggerFactory::getInstance()->getDefaultLogger();
         });
+
+        $container->set('error_log', function() {
+            return LoggerFactory::getInstance()->getErrorLogger();
+        });
+
         return $container;
     }
 
