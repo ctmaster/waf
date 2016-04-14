@@ -31,3 +31,16 @@ if (!function_exists('config')) {
     }
 
 }
+
+if (!function_exists('app')) {
+
+    function app($name)
+    {
+        $di = Registry::get('di');
+        if (!$di) {
+            return null;
+        }
+        return $di->get($name);
+    }
+
+}

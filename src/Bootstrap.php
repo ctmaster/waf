@@ -3,6 +3,7 @@
 namespace Waf;
 
 use Waf\Http\Request;
+use Waf\DI\DefaultFactory;
 
 class Bootstrap extends \Yaf\Bootstrap_Abstract
 {
@@ -15,8 +16,8 @@ class Bootstrap extends \Yaf\Bootstrap_Abstract
         if (!defined('APP_TIME_FLOAT')) {
             define('APP_TIME_FLOAT', $_SERVER['REQUEST_TIME_FLOAT']);
         }
-        if (!defined('APP_THREAD_ID')) {
-            define('APP_THREAD_ID', substr(md5(APP_TIME_FLOAT), 0, 6));
+        if (!defined('APP_REQUEST_ID')) {
+            define('APP_REQUEST_ID', substr(md5(APP_TIME_FLOAT), 0, 6));
         }
     }
 
@@ -24,6 +25,11 @@ class Bootstrap extends \Yaf\Bootstrap_Abstract
     {
         $config = \Yaf\Application::app()->getConfig();
         \Yaf\Registry::set('config', $config);
+    }
+
+    public function _initTimezone()
+    {
+        date_default_timezone_set(\Yaf\Registry::get('config')->application->timezone);
     }
 
     public function _initRequest(\Yaf\Dispatcher $dispatcher)
@@ -47,7 +53,8 @@ class Bootstrap extends \Yaf\Bootstrap_Abstract
 
     public function _initLoadDI(\Yaf\Dispatcher $dispatcher)
     {
-        require APP_PATH . '/di.php';
+        $di = DefaultFactory::getInstance()->getDI();
+        \Yaf\Registry::set('di', $di);
     }
 
 }
