@@ -18,7 +18,7 @@ class Factory
 
     /**
      * 
-     * @return Waf\Logger\Factory
+     * @return \Waf\Logger\Factory
      */
     public static function getInstance()
     {

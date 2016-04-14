@@ -20,7 +20,8 @@
             "Waf\\": "src/"
         },
         "files": [
-            "src/helpers.php"
+            "src/helpers.php",
+            "src/const.php"
         ]
     },
     "minimum-stability": "dev",
