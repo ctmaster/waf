@@ -25,4 +25,9 @@ class Container
         return $this->injector->make($name);
     }
 
+    public function make($name, array $args = array())
+    {
+        return $this->injector->make($name, $args);
+    }
+
 }
