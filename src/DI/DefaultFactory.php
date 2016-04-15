@@ -4,6 +4,7 @@ namespace Waf\DI;
 
 use Waf\DI\Container;
 use Waf\Logger\Factory as LoggerFactory;
+use Illuminate\Database\Capsule\Manager as Capsule;
 
 class DefaultFactory
 {
@@ -28,6 +29,10 @@ class DefaultFactory
 
         $container->set('error_log', function() {
             return LoggerFactory::getInstance()->getErrorLogger();
+        });
+
+        $container->set('db', function() {
+            return Capsule::connection();
         });
 
         return $container;

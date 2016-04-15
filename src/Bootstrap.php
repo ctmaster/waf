@@ -4,6 +4,7 @@ namespace Waf;
 
 use Waf\Http\Request;
 use Waf\DI\DefaultFactory;
+use Illuminate\Database\Capsule\Manager as Capsule;
 
 class Bootstrap extends \Yaf\Bootstrap_Abstract
 {
@@ -55,6 +56,24 @@ class Bootstrap extends \Yaf\Bootstrap_Abstract
     {
         $di = DefaultFactory::getInstance()->getDI();
         \Yaf\Registry::set('di', $di);
+    }
+
+    public function _initDatabase(\Yaf\Dispatcher $dispatcher)
+    {
+        $capsule = new Capsule();
+        $capsule->addConnection(config('database'));
+        $capsule->setAsGlobal();
+        $capsule->bootEloquent();
+    }
+
+    public function _initFacades(\Yaf\Dispatcher $dispatcher)
+    {
+        $aliases = [
+            'DB' => 'Waf\Facades\DB',
+        ];
+        foreach ($aliases as $k => $v) {
+            class_alias($v, $k);
+        }
     }
 
 }
