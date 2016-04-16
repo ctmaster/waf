@@ -12,6 +12,7 @@
         "rdlowrey/auryn": "~1.0",
         "monolog/monolog": "~1.0",
         "illuminate/database": "5.1.*",
+        "phpfastcache/phpfastcache": "~4.0",
         "respect/validation": "~1.0"
     },
     "require-dev": {
