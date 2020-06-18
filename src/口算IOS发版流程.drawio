@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T06:23:59.140Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="ykywxGDtcwjMi5NqfirM" version="13.2.6" type="github"><diagram id="Ma-zG1HTr-MeiHE9vH_e" name="Page-1">7ZjLjpswFIafxlK76IibiVlCQiZVO2rVLHrZEXCAlsSR49z69D02JoTCoKmalEozm8j+fWzM+TgXBdnj1fGeR5vsgSW0QJaRHJE9QZblOS78SuFUCnikhZTnSSmZtTDPf1ItGlrd5QndNgwFY4XIN00xZus1jUVDizhnh6bZkhXNp26ilLaEeRwVbfVznoisVIk1qvUZzdOserLpeuXKKqqM9ZtssyhhhwvJDpE95oyJcrQ6jmkhfVf5pdw3fWT1fDFO1+IpG2YFe3dP0odPM2f7LZ/lzuLj/g0pT9lHxU6/sL6sOFUeoAk4RE8ZFxlL2ToqwloNONutEyofY8CstnnP2AZEE8TvVIiTphvtBAMpE6tCr8Ib8NMXvV9NvsrJHa6mk+Pl4uSkZ+Vd5QUf9YmWtmzHY9rjiOrbinhKRY/d6EwOvnjKVhTuA/s4LSKR75v3iPS3l57tajww0IT+gJb3AqcXjjUkHNN8odNLxzQGxdPKdOYdaAYKXeS5KIDBCBEPEaKUMfLHchBgRAIUEuRPkYdRCAYG8nypBFNEIB24Bbx0sOAwSuXoVXvb69aX0eR+yHJB55tIufkAdbTJeJkXxZgVjKu9doIpSRzQt4KzH/RihVgL23XPdPeUC3rs59vGUW0wdN3ShdvEen6oy6BZ1bbsogS6xo0IjjoI2pogATfDACM/RL7ZhoLCKQrGAPfth7kE7QNER9rLjWa12s6vf8NpuVxacdzFKXEXLr4SJ4s0OVmDc7IejbSzuyGKLIkqdFAQoMC9iKsR8qbIxx1x1YnuuqE1DLLBiZn2f9EGXrMmGU8tSsP2DPjZ+NkZ1M9GR06yVE5yVOY31YCoDIRREFbJaSqrCSQdqThPyVLPp9AM3xCYXZXGqXo6qCtOb3MHnH3k2T0MpQ20FSRUJAPZzP0jpElEybITqRsTulheByn+vcczBkfqdCDFunk4o4CewZ+otg/CUlEKPBmrfSQdSdsfqXNsFfDqHKKQypPdGwUniWl3cC4IdrBxG5LWDUnCtP7XSq1d/PVnh78A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-18T06:32:02.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="UNMlQIm4cc609hF8qHCF" version="13.2.6" type="github">
+  <diagram id="Ma-zG1HTr-MeiHE9vH_e" name="Page-1">
+    <mxGraphModel dx="946" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HloKG8gMRH4sZiHi4bPv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HloKG8gMRH4sZiHi4bPv-1" target="HloKG8gMRH4sZiHi4bPv-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HloKG8gMRH4sZiHi4bPv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HloKG8gMRH4sZiHi4bPv-1" target="HloKG8gMRH4sZiHi4bPv-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HloKG8gMRH4sZiHi4bPv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HloKG8gMRH4sZiHi4bPv-1" target="HloKG8gMRH4sZiHi4bPv-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HloKG8gMRH4sZiHi4bPv-1" value="1.1 新版本测试通过&lt;br&gt;(测试)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HloKG8gMRH4sZiHi4bPv-7" value="1.4 提审&lt;br&gt;（IOS研发）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HloKG8gMRH4sZiHi4bPv-2" value="1.2 发邮件通知&lt;br&gt;(IOS研发)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="280" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HloKG8gMRH4sZiHi4bPv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HloKG8gMRH4sZiHi4bPv-10" target="HloKG8gMRH4sZiHi4bPv-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HloKG8gMRH4sZiHi4bPv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HloKG8gMRH4sZiHi4bPv-10" target="HloKG8gMRH4sZiHi4bPv-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HloKG8gMRH4sZiHi4bPv-10" value="1.3 企业微信群通知&lt;br&gt;（IOS研发）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HloKG8gMRH4sZiHi4bPv-12" value="1.5 更新版本库&lt;br&gt;（后端研发）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="500" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HloKG8gMRH4sZiHi4bPv-14" value="1.6 后续推广&lt;br&gt;（产品经理）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
