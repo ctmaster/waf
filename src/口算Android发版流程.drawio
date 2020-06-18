@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T09:14:13.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="GGImIDJLm23qGpFHiyF6" version="13.2.6" type="github"><diagram id="sHVoGrnoVh6710XFTggu" name="Page-1">7Vlbb9owFP41lraHVbk69mNudNOuVR+2PYbEQLaAkTEF9ut37DjcAoxJ0FRtpaqyPx/H8flyzmcfkBuPl7cim44+84JVyLGKJXIT5DjUw/BfAasa8J2gBoaiLGrI3gD35R9mQMug87Jgsx1DyXkly+kumPPJhOVyB8uE4ItdswGvdledZkPWAu7zrGqj38tCjmqUNLtQ+HtWDkfNyjam9cg4a4zNTmajrOCLLchNkRsLzmXdGi9jVinfNX6p5/WOjK5fTLCJPGdC4FXv79JFfOfdVfbtg/WBO1/fmW08ZNXcbNi8rFw1HmAFOMR0uZAjPuSTrEo3aCT4fFIwtYwFvY3NJ86nANoA/mJSrgy72VxygEZyXJnRek210NG9GWjG5yJnJzbUfCOZGDJ5wg6vGYAvl/Exk2IF8wSrMlk+7L5HZr6h4dpu42ZoGE//h9ftltftG8AslGJEMYqgESBCESEaiVEYq0bkIxKhlKCwh6iPUjCwEA0VEvUQAS5xBXuO+gJaQ9VCaQ9FsXnO/vR6iLYI36VzMSolu59m2usLiPFd6gZlVcW84kLPdQufkcIDfCYF/822RojTdzFek/3AhGTL03S36WkmBCamTFKxiekvNiFqN3E32gpPbF2JUfrc4gifGUek0ziyu/Ay+FKsfpj5uvNTdW78ppsstweTlel1wI5tdUkPPpDmHJ3mfJXjCA6/fTQpD5JX6qEoQhHWDYJIqBuQ+7Q9pLDIipMv7Rz3JpwUgsOLQM4EW+ppc0hx9tuLprbBgOE8P5TaioD2Lesyqc19cqmNHGDRNSxqN2shclCYblG4lqYA0R4K/RPSdJS+6yjU49Do79Podk2j7T83iWquCP/Ogl6nItUOoFfHP4bj1xevl3Y6OJ8f2mlgWAeUxdPKooWf2OYooHQETgxpIzEgKLaSC4V4r1qzrzVO91rz/MoK3rkh1W1hwTsQUn5TWYCjmXeyxABBFiLqnqwj+IjC0T3VIRSpUsIjxVKRMTI4GEs4J6w/uEwsBU/u+G0fukUFRyj1VYqkRCfHRFNR36V02QcQ+FMExsaYJip1vly2KX5ybLcLSfYNNretNRVwyQoTRTt0Q81SRJUsqkagFFDRniieT3HrqWgPA/1kV6utfjLRJKu18JVUkeTssCr2ie/5F1LF/Uh2gutxC91NHV+Pbf0Y4qZ/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-18T09:14:59.895Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="qBxm0ZPNn2yCb7mimqmN" version="13.2.6" type="github">
+  <diagram id="sHVoGrnoVh6710XFTggu" name="Page-1">
+    <mxGraphModel dx="946" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="74lHQEwCQ4Ql1Gv0Io2O-1" target="74lHQEwCQ4Ql1Gv0Io2O-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-1" value="1.1 新版本测试通过&lt;br&gt;（测试）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="170" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="74lHQEwCQ4Ql1Gv0Io2O-6" target="74lHQEwCQ4Ql1Gv0Io2O-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="74lHQEwCQ4Ql1Gv0Io2O-6" target="74lHQEwCQ4Ql1Gv0Io2O-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-6" value="1.2 将APK文件上传到CDN&lt;br&gt;(Android研发)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="370" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-8" value="1.3 发邮件通知&lt;br&gt;（Android研发）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="570" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="74lHQEwCQ4Ql1Gv0Io2O-10" target="74lHQEwCQ4Ql1Gv0Io2O-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="74lHQEwCQ4Ql1Gv0Io2O-10" target="74lHQEwCQ4Ql1Gv0Io2O-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="74lHQEwCQ4Ql1Gv0Io2O-10" target="74lHQEwCQ4Ql1Gv0Io2O-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-10" value="1.4 企业微信群通知&lt;br&gt;（Android研发）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="570" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="74lHQEwCQ4Ql1Gv0Io2O-14" target="74lHQEwCQ4Ql1Gv0Io2O-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-14" value="1.5 更新版本库&lt;br&gt;（后端研发）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="770" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-16" value="1.7 更新官网下载地址&lt;br&gt;（后端研发）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="960" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74lHQEwCQ4Ql1Gv0Io2O-19" value="1.6 后续推广工作&lt;br&gt;（产品经理）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="770" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
