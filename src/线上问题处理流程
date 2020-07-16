@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2020-07-16T13:40:16.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="MOPlnMC70d_ddTnnb7Os" version="13.3.6" type="github"><diagram id="dV4Cn-0E6F2bTigWM-gh" name="Page-1">5Zpbj6M2FIB/zXmcFWAw9qMhZKtqWlWdVbvqGwlOQpfEEXEmM/vraxsTIGSyqZZZZrIZaWSOL+Bz/HEuCaB4/fSxTLer30TGC/Cc7AnQBDyPuIH6rwXPlcDHbiVYlnlWiVqCh/wrt0LHSvd5xnedgVKIQubbrnAuNhs+lx1ZWpbi0B22EEX3rtt0yXuCh3la9KV/55lc2W15YSP/hefLVX1nF9OqZ53Wg+1Odqs0E4eWCCWA4lIIWbXWTzEvtO5qvVTzpi/0Hh+s5Bt5zYTl/FNw94X+dff8icS/5593v/75zx2qVnlMi73dsH1Y+VxrgGdKIfZSlHIllmKTFkkjjUqx32Rc38ZRV82YeyG2Sugq4b9cymdr3XQvhRKt5LqwvdU99Y1e3JsV7cS+nPMLG6rPSFouubwwzjtaQJ1cLtZcls9qXsmLVOaP3edI7RlaHsc1alYNq+n/oXW3p3UlcSAJgEyBupCEQBKIHN2IGERTSHyICBAGCQUaAkt0g3lASc9eXWscVrnkD9vUKO2gEO1qfpEXRSwKUZq5aBHoPyXfyVJ84a0ebD56htjIlrz6HG34yEvJny5bsa91O4FaUuyrwsX2+tCA59Y0rVrQ1eMGt1Nwa3R4V9Lhj0mH19O6Z+gIgU6BBYaFGCjTEuYA9VvgVJgoOjBEShhBQoCprkCPYT6QSQuuHkrN9EDL9S2UZKJnDUlZlnKymJ+lbE74bDEMTV7w1nAKbw0n/0qc8Jg4+T2toytxuudpxssWFb72RizUAygCYhxVFOnBejUHCB6Wk4CTzD/HCfFmyHijATjxXfQheGOkuP0I4Z2jgq9ExXXOG+vHsIJ7avctK/qY+y1WiHYQjNiGwkJ5HGp8jYbDAYbNLN/ggoE4NWpT43FqZzQkLtxVwITncKE4ROlAuATkrbkV9+bCtDr5/TYtowZqbh+X5vSfs8B9OuNFV2tpkS83qj1XSlK+BkX6cOYq/2a2Y51nWWUgvsu/pjOznjbRVuQbabYURBBMLp1uWxywk+GYkrdtc+FovcjCnfMBhRh3eKiTu6tNYFf/Q2+nWZqcLHqygFgsdupknFrw+IjfEX3Tn5amSumj0eT0FB8Y5zOMY1mJ9Wy/e2cVgYB2I7NjTtNyNvSMryGv5mv60TQ2Rqpi5Mg2mImmCQVCjP1iYPEZI6lGRCHCJgNlQGKbrhK3b7/vqeosOJ6fzTezkM4cZxhbhSf5pjd6YIBuLoqu3cI3X2Vo1DC6fsyW4kOwBU5izvuxvqLgwLbSeYqLyUKjcFAUxomR0fgo3FyhH13r1ZE3Jgqo79WJRUERoN/4WJ96WpUjY+3Pde3SBeJ1qpmE2S4Nx7T2E75dh7mWJGKCAnXJ0A1w44/Pzc3llsi7lptRc8v6MVuKp5abqKKkXfN/vaLKj6nV+3Vc+XYOfj/Q1QmKY7MQ/VIyRTE2OfddS+t7lOYbzdq968FGwkzE/P6sdfrNymtaS102PxGocvzmdxYo+Q8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-16T13:40:27.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="fTKbwthU6FkpRzEBLez1" version="13.3.6" type="github">
+  <diagram id="dV4Cn-0E6F2bTigWM-gh" name="Page-1">
+    <mxGraphModel dx="815" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gcT5-k9V-yT8CNiXsJRZ-1" target="gcT5-k9V-yT8CNiXsJRZ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-1" value="1 发现线上问题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="90" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gcT5-k9V-yT8CNiXsJRZ-2" target="gcT5-k9V-yT8CNiXsJRZ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-2" value="2 知会研发与测试复现问题与定位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gcT5-k9V-yT8CNiXsJRZ-4" target="gcT5-k9V-yT8CNiXsJRZ-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-4" value="3 知会研发Leader与产品经理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="413.5" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gcT5-k9V-yT8CNiXsJRZ-6" target="gcT5-k9V-yT8CNiXsJRZ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-6" value="4 组会讨论是否紧急修复" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="580" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gcT5-k9V-yT8CNiXsJRZ-10" target="gcT5-k9V-yT8CNiXsJRZ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-16" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gcT5-k9V-yT8CNiXsJRZ-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.3766" y="-1" relative="1" as="geometry">
+            <mxPoint x="8" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gcT5-k9V-yT8CNiXsJRZ-10" target="gcT5-k9V-yT8CNiXsJRZ-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-10" value="5 是否紧急修复" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="595" y="250" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-14" value="6 下个版本修复并验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="750" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gcT5-k9V-yT8CNiXsJRZ-28" target="gcT5-k9V-yT8CNiXsJRZ-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-28" value="7 制定新版本号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="580" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gcT5-k9V-yT8CNiXsJRZ-30" target="gcT5-k9V-yT8CNiXsJRZ-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-30" value="8 完成需求与技术评审文档" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="580" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gcT5-k9V-yT8CNiXsJRZ-32" target="gcT5-k9V-yT8CNiXsJRZ-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-32" value="9 开发修复" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="414" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gcT5-k9V-yT8CNiXsJRZ-34" value="10 后续测试与发版流程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="250" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
